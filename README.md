@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akash Shinde</h1>
-<h3 align="center">A passionate frontend web developer,programmer, UI designer,</h3>
+<h3 align="center">A Passionate Frontend Web Developer, Backend Developer , Programmer, UI Designer,</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajshinde05&label=Profile%20views&color=0e75b6&style=flat" alt="ajshinde05" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajshinde05" alt="ajshinde05" /></a> </p>
 
-- 🌱 I’m currently learning **Java and Javascript**
+- 🌱 I’m currently learning **Java and SpringBoot**
 
-- 💬 Ask me about **HTML,CSS,JAVA,JavaScript,Python**
+- 💬 Ask me about **Core Java, SQL, Python, HTML, CSS and JavaScript**
 
 - 📫 How to reach me **shindeakashj591@gmail.com**
 
